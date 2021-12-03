@@ -1,0 +1,6 @@
+*.sw*
+*.dx*
+*.vpk
+models/
+trash_hat_removal/
+/vpk_list.txt

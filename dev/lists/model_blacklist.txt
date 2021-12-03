@@ -1,0 +1,329 @@
+; SUMMER 2013
+models/workshop/player/items/engineer/pocket_protector
+models/workshop/player/items/heavy/jul13_red_army_robin
+models/workshop/player/items/sniper/jul13_cameleon
+models/workshop/player/items/soldier/jul13_soldier_eagle
+models/workshop/player/items/soldier/jul13_lt_bites
+; FALL 2013
+models/workshop/player/items/pyro/fall2013_popeyes
+models/workshop/player/items/sniper/fall2013_lil_snaggletooth
+; HALLOWEEN 2013
+models/workshop/player/items/demo/hw2013_octo_face
+models/workshop/player/items/all_class/hw2013_allclass_horseman
+models/workshop/player/items/all_class/hw2013_wandering_soul
+models/workshop/player/items/scout/hw2013_horrifying_hound_hood
+; FEET ITEM models/workshop/player/items/scout/hw2013_terrifying_terrier_trousers
+; FEET ITEM models/workshop/player/items/all_class/hw2013_scout_demo_faunlegs
+models/workshop/player/items/scout/hw2013_bunny_mann
+models/workshop/player/items/all_class/hw2013_leather_face
+models/workshop/player/items/pyro/hw2013_per_eye_scopes
+models/workshop/player/items/all_class/hw2013_tricky_chicken
+models/workshop/player/items/heavy/hw2013_ivan_the_inedible
+models/workshop/player/items/engineer/hw2013_grease_monkey
+models/workshop/player/items/pyro/hw2013_dragonbutt
+models/workshop/player/items/demo/hw2013_zombie_parrot
+models/workshop/player/items/all_class/hw2013_burlap_buddy
+models/workshop/player/items/medic/hw2013_medicmedes
+models/workshop/player/items/heavy/hw2013_heavy_robin
+models/workshop/player/items/soldier/hw2013_feathered_freedom
+; FEET ITEM models/workshop/player/items/scout/hw2013_the_hell_runner
+models/workshop/player/items/scout/hw2013_halloweiner
+models/workshop/player/items/all_class/hw2013_the_fire_bat_v2
+; FEET ITEM models/workshop/player/items/scout/hw2013_running_octopus
+models/workshop/player/items/all_class/hw2013_intergalactic_intruder
+models/workshop/player/items/all_class/hw2013_the_enlightening_lantern
+models/workshop/player/items/spy/hw2013_brain__bowler
+models/workshop/player/items/sniper/hw2013_zombie_chameleon
+models/workshop/player/items/pyro/hw2013_dragon_shoes
+models/workshop/player/items/all_class/hw2013_pumpkin_top
+models/workshop/player/items/soldier/hw2013_zombites
+models/workshop/player/items/medic/hw2013_zombie_archimedes
+models/workshop/player/items/demo/hw2013_manbird_of_aberdeen
+models/workshop/player/items/sniper/hw2013_sir_shootsalot
+models/workshop/player/items/pyro/hw2013_carrion_cohort
+models/workshop/player/items/all_class/hw2013_the_caws_of_death
+models/workshop/player/items/all_class/hw2013_the_magical_mercenary
+models/workshop/player/items/all_class/hw2013_the_haunted_hat
+models/workshop/player/items/spy/hw2013_rogues_brogues
+; CHRISTMAS 2013
+models/workshop/player/items/all_class/xms2013_kissking
+models/workshop/player/items/scout/xms2013_scout_squirrel
+models/workshop/player/items/engineer/xms2013_festive_beard
+; SPRING 2014
+models/workshop/player/items/engineer/sbox2014_einstein
+models/workshop/player/items/spy/sbox2014_spy_snake
+models/workshop/player/items/heavy/sbox2014_sammy_cap
+; LOVE AND WAR
+models/workshop/player/items/engineer/short2014_poopyj_backpack
+; VALVE STORE PROMO
+models/workshop/player/items/spy/spycrab
+; ALIEN ISOLATION PROMO
+models/workshop_partner/player/items/scout/ai_body
+models/workshop_partner/player/items/scout/ai_head
+models/workshop_partner/player/items/scout/ai_legs
+; FALL 2014
+models/workshop/player/items/all_class/sept2014_hillbilly_speedbump
+models/workshop/player/items/medic/sept2014_pocket_heavy
+; OCTODAD PROMO
+models/workshop_partner/player/items/all_class/nobody_suspects_a_thing
+; HALLOWEEN 2014
+models/workshop/player/items/medic/sf14_medic_hundkopf
+models/workshop/player/items/scout/sf14_nugget_noggin
+models/workshop/player/items/scout/sf14_fowl_fists
+; FEET ITEM models/workshop/player/items/scout/sf14_talon_trotters
+models/workshop/player/items/all_class/sf14_ghost_of_spies_checked_past
+models/workshop/player/items/all_class/sf14_hooded_haunter_classes
+models/workshop/player/items/sniper/sf14_kanga_kickers
+models/workshop/player/items/sniper/sf14_roo_rippers
+models/workshop/player/items/sniper/sf14_marsupial_muzzle
+models/workshop/player/items/spy/sf14_the_rogues_rabbit
+models/workshop/player/items/engineer/sf14_beep_man
+models/workshop/player/items/engineer/sf14__soul_of_spensers_past
+models/workshop/player/items/engineer/sf14_tiny_texan
+models/workshop/player/items/sniper/sf14_sniper_ostrich_legs
+models/workshop/player/items/medic/sf14_purity_wings
+models/workshop/player/items/demo/sf14_explosive_mind
+models/workshop/player/items/all_class/sf14_cursed_cruise
+; CHRISTMAS 2014
+models/workshop/player/items/heavy/dec2014_the_big_papa
+models/workshop/player/items/engineer/dec2014_engineer_seal
+models/workshop/player/items/sniper/dec2014_wally_pocket
+models/workshop/player/items/spy/dec2014_pocket_momma
+; TOMB RAIDER PROMO
+models/workshop_partner/player/items/all_class/pocket_raiders
+models/workshop_partner/player/items/all_class/pocket_raiders_carter_style
+models/workshop_partner/player/items/all_class/pocket_raiders_horus_style
+models/workshop_partner/player/items/all_class/pocket_raiders_isis_style
+; GUN METTLE
+models/workshop/player/items/all_class/cc_summer2015_captain_cardbeard_cutthroat
+models/workshop/player/items/all_class/cc_summer2015_potassium_bonnett
+; INVASION
+models/workshop/player/items/pyro/invasion_space_hamster_hammy
+; HALLOWEEN 2015
+models/workshop/player/items/all_class/hwn2015_duckyhat
+models/workshop/player/items/all_class/hwn2015_dino_hoodie
+models/workshop/player/items/all_class/hwn2015_catastrophic_companions
+; BATMAN PROMO
+models/workshop/player/items/all_class/bak_pocket_villians
+models/workshop/player/items/all_class/bak_batbelt
+; DISGAEA PROMO
+models/workshop_partner/player/items/all_class/prinny_hat
+; HALLOWEEN 2016
+models/workshop/player/items/demo/hwn2016_aerobatics_demonstrator
+models/workshop/player/items/engineer/hwn2016_final_frontiersman
+models/workshop/player/items/pyro/hwn2016_hovering_hotshot
+models/workshop/player/items/all_class/hwn2016_toadstool_topper
+models/workshop/player/items/pyro/hwn2016_pyro_shark
+models/workshop/player/items/all_class/hwn2016_spooktacles
+models/workshop/player/items/all_class/hwn2016_lil_bitey
+; CHRISTMAS 2016
+models/workshop/player/items/all_class/dec16_handy_canes
+models/workshop/player/items/medic/dec16_santarchimedes
+models/workshop/player/items/spy/dec16_brain_warming_wear
+models/workshop/player/items/all_class/dec16_snowmann
+models/workshop/player/items/all_class/dec16_woolen_warmer
+; PYRO HEAD REPLACEMENT models/workshop/player/items/pyro/dec16_pyro_the_flamedeer
+models/workshop/player/items/demo/dec16_elf_esteem
+models/workshop/player/items/all_class/dec16_head_prize
+; SPRING 2017
+models/workshop/player/items/scout/spr17_pocket_pauling
+; JUNGLE INFERNO
+models/workshop/player/items/all_class/fall17_quizzical_quetzal
+models/workshop/player/items/all_class/fall17_pocket_saxton
+models/workshop/player/items/all_class/fall17_croaking_hazard
+models/workshop/player/items/engineer/fall17_tropical_toad
+; CHRISTMAS 2017
+models/workshop/player/items/all_class/dec17_sledders_sidekick
+models/workshop/player/items/all_class/dec17_balloonihoodie
+models/workshop/player/items/all_class/dec17_pocket_yeti
+models/workshop/player/items/pyro/dec17_cats_pajamas
+models/workshop/player/items/all_class/dec17_pocket_santa
+models/workshop/player/items/all_class/dec17_caribou_companion
+; SPRING 2018
+models/workshop/player/items/soldier/spr18_private_maggot_muncher
+models/workshop/player/items/spy/spr18_aristotle
+; HALLOWEEN 2018
+models/workshop/player/items/all_class/hwn2018_terror_antula
+models/workshop/player/items/all_class/hwn2018_lucky_cat_hat
+; PYRO HEAD REPLACEMENT models/workshop/player/items/pyro/hwn2018_mr_quackers
+models/workshop/player/items/engineer/hwn2018_aimbot_assistant
+models/workshop/player/items/engineer/hwn2018_aimbot_assistant_s2
+models/workshop/player/items/engineer/hwn2018_mini_engy
+models/workshop/player/items/sniper/hwn2018_crocodile_mun_dee
+models/workshop/player/items/sniper/hwn2018_scopers_scales
+models/workshop/player/items/engineer/hwn2018_dell_in_the_shell
+models/workshop/player/items/engineer/hwn2018_shell_of_a_mann
+; CHRISTMAS 2018
+models/workshop/player/items/all_class/dec18_polar_pal
+models/workshop/player/items/all_class/dec18_polar_pal_bamboo
+models/workshop/player/items/all_class/dec18_polar_pal_liberty
+models/workshop/player/items/all_class/dec18_pocket_admin
+models/workshop/player/items/all_class/dec18_bread_heads
+models/workshop/player/items/scout/dec18_catchers_companion
+models/workshop/player/items/scout/dec18_catchers_companion_style
+models/workshop/player/items/pyro/dec18_pocket_pardner
+models/workshop/player/items/pyro/dec18_pocket_pardner_style
+models/workshop/player/items/engineer/dec18_puggyback
+models/workshop/player/items/all_class/dec18_harry
+models/workshop/player/items/all_class/dec18_harry_sleeping
+models/workshop/player/items/all_class/dec18_harry_villainous
+; SUMMER 2019
+models/workshop/player/items/engineer/sum19_texas_toast
+models/workshop/player/items/pyro/sum19_fiery_phoenix
+; HALLOWEEN 2019
+models/workshop/player/items/all_class/hwn2019_bat_hat
+models/workshop/player/items/all_class/hwn2019_mister_bones
+models/workshop/player/items/all_class/hwn2019_binoculus
+models/workshop/player/items/all_class/hwn2019_binoculus_style2
+models/workshop/player/items/all_class/hwn2019_pocket_merasmus
+models/workshop/player/items/all_class/hwn2019_pocket_ghost
+models/workshop/player/items/all_class/hwn2019_pocket_monoculus
+models/workshop/player/items/all_class/hwn2019_pocket_skeleton_king
+models/workshop/player/items/all_class/hwn2019_bread_biter
+models/workshop/player/items/all_class/hwn2019_trick_stabber
+models/workshop/player/items/soldier/hwn2019_racc_mann
+; PYRO HEAD REPLACEMENT models/workshop/player/items/pyro/hwn2019_candycranium
+models/workshop/player/items/sniper/hwn2019_elizabeth_the_third
+; CHRISTMAS 2019
+models/workshop/player/items/all_class/dec19_bumble_beenie
+models/workshop/player/items/all_class/dec19_pebbles_the_penguin
+models/workshop/player/items/all_class/dec19_yule_hog
+models/workshop/player/items/all_class/dec19_gingerbread_mann_s1
+models/workshop/player/items/all_class/dec19_gingerbread_mann_s2
+models/workshop/player/items/all_class/dec19_citizen_cane_s1
+models/workshop/player/items/all_class/dec19_citizen_cane_s2
+models/workshop/player/items/all_class/dec19_candy_crown
+models/workshop/player/items/all_class/dec19_glittering_garland
+models/workshop/player/items/soldier/dec19_public_speaker
+models/workshop/player/items/engineer/dec19_telefragger_toque
+models/workshop/player/items/medic/dec19_pocketmedes
+models/workshop/player/items/medic/dec19_pocketmedes_s2
+; SUMMER 2020
+models/workshop/player/items/all_class/sum20_breadcrab
+; FEET ITEM models/workshop/player/items/all_class/sum20_loaf_loafers_style1
+; FEET ITEM models/workshop/player/items/all_class/sum20_loaf_loafers_style2
+models/workshop/player/items/spy/sum20_crabe_de_chapeau
+models/workshop/player/items/spy/sum20_birds_eye_viewer_style1
+models/workshop/player/items/spy/sum20_birds_eye_viewer_style2
+models/workshop/player/items/soldier/sum20_hawk_warrior
+models/workshop/player/items/soldier/sum20_bazaar_bauble
+models/workshop/player/items/heavy/sum20_momma_kiev_style1
+models/workshop/player/items/heavy/sum20_momma_kiev_style2
+; HALLOWEEN 2020
+models/workshop/player/items/all_class/hwn2020_impish_ears
+models/workshop/player/items/all_class/hwn2020_balloonicorpse
+models/workshop/player/items/all_class/hwn2020_gourd_grin
+models/workshop/player/items/all_class/hwn2020_hollowed_helm
+models/workshop/player/items/all_class/hwn2020_handy_thing
+models/workshop/player/items/all_class/hwn2020_handy_thing_style2
+models/workshop/player/items/all_class/hwn2020_king_cardbeard
+models/workshop/player/items/all_class/hwn2020_sir_pumpkinton
+models/workshop/player/items/all_class/hwn2020_wrap_a_khamon
+models/workshop/player/items/all_class/hwn2020_wrap_a_khamon_style2
+models/workshop/player/items/all_class/hwn2020_boom_boxers
+models/workshop/player/items/all_class/hwn2020_eye_see_you
+models/workshop/player/items/all_class/hwn2020_misfortune_fedora
+models/workshop/player/items/soldier/hwn2020_war_blunder
+models/workshop/player/items/scout/hwn2020_grounded_flyboy
+models/workshop/player/items/medic/hwn2020_rolfe_copter
+models/workshop/player/items/engineer/hwn2020_pug_mug
+models/workshop/player/items/engineer/hwn2020_pug_mug_style2
+models/workshop/player/items/heavy/hwn2020_mannvich
+models/workshop/player/items/pyro/hwn2020_flavorful_baggies
+models/workshop/player/items/soldier/hwn2020_calamitous_cauldron
+models/workshop/player/items/soldier/hwn2020_calamitous_cauldron_style2
+models/workshop/player/items/soldier/hwn2020_trappers_hat
+models/workshop/player/items/soldier/hwn2020_trappers_hat_style2
+models/workshop/player/items/sniper/hwn2020_glow_below
+models/workshop/player/items/sniper/hwn2020_glow_below_style2
+models/workshop/player/items/engineer/hwn2020_goblineer
+models/workshop/player/items/engineer/hwn2020_goblineer_style2
+models/workshop/player/items/engineer/hwn2020_ghoul_box
+models/workshop/player/items/all_class/hwn2020_hallows_hatte
+; CHRISTMAS 2020
+models/workshop/player/items/all_class/dec20_candy_cantlers
+models/workshop/player/items/all_class/dec20_jolly_jingler
+models/workshop/player/items/all_class/dec20_smissmas_sorcerer
+; FEET ITEM models/workshop/player/items/all_class/dec20_flip_thwomps
+models/workshop/player/items/all_class/dec20_pillar_of_beanies
+models/workshop/player/items/all_class/dec20_shoestring_santa
+models/workshop/player/items/all_class/dec20_reindoonibeanie
+models/workshop/player/items/all_class/dec20_festive_fascinator
+models/workshop/player/items/all_class/dec20_festive_fascinator_style1
+models/workshop/player/items/all_class/dec20_pile_of_presents
+models/workshop/player/items/pyro/dec20_round_a_bout
+models/workshop/player/items/engineer/dec20_blitzen_bowl
+models/workshop/player/items/medic/dec20_elf_care_provider
+models/workshop/player/items/heavy/dec20_sandmanns_brush
+models/workshop/player/items/sniper/dec20_killing_tree
+models/workshop/player/items/demo/dec20_helm_helm
+; SUMMER 2021
+models/workshop/player/items/all_class/sum21_ballooniphones
+models/workshop/player/items/pyro/sum21_hook_line_cinder
+models/workshop/player/items/heavy/sum21_snack_stack
+models/workshop/player/items/heavy/sum21_punchmann_style1
+models/workshop/player/items/heavy/sum21_punchmann_style2
+models/workshop/player/items/spy/sum21_crustaceous_cowl
+models/workshop/player/items/soldier/sum21_thousand_yard_style1
+models/workshop/player/items/soldier/sum21_thousand_yard_style2
+; HALLOWEEN 2021
+models/workshop/player/items/all_class/hwn2021_creepy_crawlies
+models/workshop/player/items/all_class/hwn2021_creepy_crawlies_style2
+models/workshop/player/items/all_class/hwn2021_spooky_head_bouncers
+models/workshop/player/items/all_class/hwn2021_spooky_head_bouncers_style2
+models/workshop/player/items/all_class/hwn2021_spooky_head_bouncers_style3
+models/workshop/player/items/all_class/hwn2021_towering_patch
+models/workshop/player/items/all_class/hwn2021_twisted_topper
+models/workshop/player/items/all_class/hwn2021_twisted_topper_style2
+models/workshop/player/items/all_class/hwn2021_beanie_all_gnawing
+models/workshop/player/items/all_class/hwn2021_eyequarium
+models/workshop/player/items/all_class/hwn2021_eyequarium_style2
+models/workshop/player/items/all_class/hwn2021_second_headwear
+models/workshop/player/items/all_class/hwn2021_second_headwear_style2
+models/workshop/player/items/all_class/hwn2021_alakablamicon
+models/workshop/player/items/all_class/hwn2021_hat_outta_hell
+models/workshop/player/items/all_class/hwn2021_hat_outta_hell_style2
+models/workshop/player/items/all_class/hwn2021_hat_outta_hell_style3
+models/workshop/player/items/all_class/hwn2021_bone_cone
+models/workshop/player/items/all_class/hwn2021_bone_cone_style2
+models/workshop/player/items/all_class/hwn2021_scariest_mask
+models/workshop/player/items/engineer/hwn2021_hook_line_thinker
+models/workshop/player/items/medic/hwn2021_optic_nerve
+models/workshop/player/items/scout/hwn2021_corpse_carrier
+models/workshop/player/items/spy/hwn2021_gruesome_gourd
+models/workshop/player/items/spy/hwn2021_gruesome_gourd_style2
+models/workshop/player/items/soldier/hwn2021_poopy_doe
+models/workshop/player/items/scout/hwn2021_batters_beak
+models/workshop/player/items/soldier/hwn2021_war_dog
+models/workshop/player/items/soldier/hwn2021_war_dog_style2
+; PYRO HEAD REPLACEMENT models/workshop/player/items/pyro/hwn2021_miami_rooster
+models/workshop/player/items/all_class/hwn2021_computron
+; CHRISTMAS 2021
+models/workshop/player/items/all_class/dec21_el_fiestibrero
+models/workshop/player/items/all_class/dec21_gnome_dome
+models/workshop/player/items/all_class/dec21_gnome_dome_style1
+models/workshop/player/items/all_class/dec21_gnome_dome_style2
+models/workshop/player/items/all_class/dec21_gnome_dome_style3
+models/workshop/player/items/all_class/dec21_jolly_jester
+models/workshop/player/items/all_class/dec21_seasonal_spring
+models/workshop/player/items/all_class/dec21_oh_deer
+models/workshop/player/items/all_class/dec21_oh_deer_style1
+models/workshop/player/items/all_class/dec21_giftcrafter
+models/workshop/player/items/all_class/dec21_merry_cone
+models/workshop/player/items/all_class/dec21_brain_cane
+models/workshop/player/items/all_class/dec21_reindoonihorns
+models/workshop/player/items/all_class/dec21_cozy_catchers
+models/workshop/player/items/all_class/dec21_ominous_offering
+models/workshop/player/items/all_class/dec21_festive_frames
+models/workshop/player/items/all_class/dec21_festive_frames_style1
+models/workshop/player/items/pyro/dec21_elf_ignition
+models/workshop/player/items/pyro/dec21_elf_ignition_style1
+models/workshop/player/items/engineer/dec21_train_of_thought
+models/workshop/player/items/engineer/dec21_train_of_thought_style1
+models/workshop/player/items/heavy/dec21_mooshanka
+models/workshop/player/items/soldier/dec21_elf_defence
+models/workshop/player/items/spy/dec21_festive_cover_up
+models/workshop/player/items/scout/dec21_seasonal_employee
+models/workshop/player/items/scout/dec21_seasonal_employee_style1
+models/workshop/player/items/all_class/dec21_hat_chocolate
+models/workshop/player/items/all_class/dec21_elf_made_bandanna
