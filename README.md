@@ -1,4 +1,6 @@
 # Trash Hat Removal Mod (THR)
+![](https://i.imgur.com/fbnVYqS.jpeg)
+
 This repository contains modified scripts from Clean TF2 to automate taking out the garbage that is TF2's cosmetic cases. [Inspired by Zesty's video on the Smissmas 2021 update.](https://www.youtube.com/watch?v=REIMVw84hj4)
 
 This mod will work on any server, including Valve servers and sv_pure servers. It functions identically to the traditional no hat mods. No preloading required.

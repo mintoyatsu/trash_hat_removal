@@ -1,3 +1,7 @@
+; ROBOTIC BOOGALOO
+models/workshop/player/items/all_class/robo_all_spybot
+models/workshop/player/items/medic/robo_medic_archimedes
+models/workshop/player/items/engineer/robo_engineer_teddy
 ; SUMMER 2013
 models/workshop/player/items/engineer/pocket_protector
 models/workshop/player/items/heavy/jul13_red_army_robin
@@ -99,6 +103,7 @@ models/workshop/player/items/all_class/cc_summer2015_captain_cardbeard_cutthroat
 models/workshop/player/items/all_class/cc_summer2015_potassium_bonnett
 ; INVASION
 models/workshop/player/items/pyro/invasion_space_hamster_hammy
+models/workshop/player/items/heavy/invasion_sucker_slug
 ; HALLOWEEN 2015
 models/workshop/player/items/all_class/hwn2015_duckyhat
 models/workshop/player/items/all_class/hwn2015_dino_hoodie
@@ -184,6 +189,10 @@ models/workshop/player/items/all_class/hwn2019_trick_stabber
 models/workshop/player/items/soldier/hwn2019_racc_mann
 ; PYRO HEAD REPLACEMENT models/workshop/player/items/pyro/hwn2019_candycranium
 models/workshop/player/items/sniper/hwn2019_elizabeth_the_third
+models/workshop/player/items/scout/hwn2019_remorseless_raptor
+models/workshop/player/items/scout/hwn2019_wild_whip
+models/workshop/player/items/engineer/hwn2019_eingineer
+models/workshop/player/items/spy/hwn2019_avian_amante
 ; CHRISTMAS 2019
 models/workshop/player/items/all_class/dec19_bumble_beenie
 models/workshop/player/items/all_class/dec19_pebbles_the_penguin
