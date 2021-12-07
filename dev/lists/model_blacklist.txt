@@ -1,3 +1,9 @@
+models/player/items/heavy/heavy_fairy_tutu.dx80.vtx
+models/player/items/heavy/heavy_fairy_tutu.dx90.vtx
+models/player/items/heavy/heavy_fairy_wings.dx80.vtx
+models/player/items/heavy/heavy_fairy_wings.dx90.vtx
+models/player/items/heavy/heavy_fairy_tiara.dx80.vtx
+models/player/items/heavy/heavy_fairy_tiara.dx90.vtx
 ; ROBOTIC BOOGALOO
 models/workshop/player/items/all_class/robo_all_spybot
 models/workshop/player/items/medic/robo_medic_archimedes
